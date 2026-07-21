@@ -5,3 +5,5 @@ Added one line
 added 2 line 
 
 assc
+
+ADDED NEW LINE IN ANOTHER WORKING DIRECTORY CLONING
